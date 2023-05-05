@@ -1,0 +1,9 @@
+.swiperDiv{
+height:450px;
+}
+@media only screen and (max-width:600px) {
+
+.swiperDiv{
+height:350px;
+}
+}

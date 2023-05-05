@@ -1,0 +1,12 @@
+@media only screen and (min-width:1500px) {
+
+.container{
+width:1200px;
+}
+.top{
+margin-right:90px;
+}
+.bottom{
+margin-right:60px;
+}
+}
